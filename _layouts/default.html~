@@ -7,6 +7,7 @@
 　<body>
 
 　　　　{{ content }}
+	 <a href="{{ site.baseurl }}">Home</a></li>
 
 　</body>
 　</html>
